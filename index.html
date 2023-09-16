@@ -91,6 +91,9 @@
     <script>
       new TypeIt("#typing", {
         speed: 70,
+        afterComplete: function (instance) {
+          instance.destroy();
+        },
       })
         .pause(100)
         .type("Coming soon...")
