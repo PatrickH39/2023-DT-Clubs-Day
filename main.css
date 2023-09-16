@@ -509,6 +509,10 @@ header.masthead h1 {
 }
 
 @media (min-width: 961px) {
+  body {
+    overflow-y: hidden;
+  }
+
   .footer {
     position: sticky;
     bottom: 0;
