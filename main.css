@@ -509,9 +509,8 @@ header.masthead h1 {
 }
 
 @media (min-width: 961px) {
-  .row {
+  .footer {
     position: sticky;
-    width: auto;
     bottom: 0;
   }
 }
