@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/patrickh39/DT-Clubs-Day/main/images/favicon/apple-touch-icon.png" alt="Logo">
   </a>
 
-<h3 align="center">DT Clubs Day 2022</h3>
+<h3 align="center">DT Clubs Day 2023</h3>
 
   <p align="center">
     A website for 1000+ students to sign up for clubs @ DT
