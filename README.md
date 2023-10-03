@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   <a href="https://dtclubsday.ca">
-    <img src="https://raw.githubusercontent.com/patrickh39/DT-Clubs-Day/main/images/favicon/apple-touch-icon.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/PatrickH39/2023-DT-Clubs-Day/main/images/readme-logo.png" alt="Logo">
   </a>
 
 <h3 align="center">DT Clubs Day 2023</h3>
@@ -19,6 +19,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <p>This website was created in collaboration with <a href="https://www.instagram.com/DTStudentCouncil"><b>DT Student Council</b></a> for students at <a href="https://thompson.vsb.bc.ca"><b>David Thompson Secondary</b></a> to sign up for their desired clubs. There were over 30 clubs to choose from this year and there were 400+ submissions made using the website.</p> 
@@ -38,20 +39,19 @@
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 For any inquiries regarding this project, please email **[help@dtclubsday.ca](mailto:help@dtclubsday.ca)**.
 
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* []()All the clubs that participated
-* []()David Thompson Student Council
-* []()Vancouver School Board
-* []()Admin Team @ DT
+- []()All the clubs that participated
+- []()David Thompson Student Council
+- []()Vancouver School Board
+- []()Admin Team @ DT
 
 <p align="right">(<a href="#top">back to top</a>)</p>
