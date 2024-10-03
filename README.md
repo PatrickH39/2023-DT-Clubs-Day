@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/PatrickH39/2023-DT-Clubs-Day/main/images/readme-logo.png" alt="Logo">
   </a>
 
-<h3 align="center">DT Clubs Day 2024</h3>
+<h3 align="center">DT Clubs Day 2023</h3>
 
   <p align="center">
     A website for 1000+ students to sign up for clubs @ DT
@@ -22,8 +22,8 @@
 
 ## About The Project
 
-<p>This website was created in collaboration with <a href="https://www.instagram.com/DTStudentCouncil"><b>DT Student Council</b></a> for students at <a href="https://thompson.vsb.bc.ca"><b>David Thompson Secondary</b></a> to sign up for their desired clubs during the pandemic. There were over 30 clubs to choose from this year and there were 400+ submissions made using the website.</p> 
-<p>Although Clubs Day has returned to an in-person event, anyone can still view the clubs available and contact teacher sponsors directly regarding information about a specific club.</p>
+<p>This website was created in collaboration with <a href="https://www.instagram.com/DTStudentCouncil"><b>DT Student Council</b></a> for students at <a href="https://thompson.vsb.bc.ca"><b>David Thompson Secondary</b></a> to sign up for their desired clubs. There were over 30 clubs to choose from this year and there were 400+ submissions made using the website.</p> 
+<p>Although Clubs Day is now over, anyone can still view the clubs available and contact teacher sponsors directly regarding information about a specific club.</p>
 
 ### Built With
 
